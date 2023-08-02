@@ -26,4 +26,5 @@ A related blog post:
 [shield-go-version]: https://img.shields.io/github/go-mod/go-version/brainsae/brainsae
 [go-version]: https://github.com/brainsae/brainsae/blob/main/go.mod
 
-[download]: https://img.shields.io/github/downloads/braineae/brainsae/total?logo=github
+[download]: https://img.shields.io/github/downloads/brainsae/brainsae/total?logo=github
+\
