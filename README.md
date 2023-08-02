@@ -15,11 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569) [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/kubernetes)](https://goreportcard.com/report/github.com/kubernetes/kubernetes) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubernetes/kubernetes)
+[![GitHub release][release-img]][release]
+[![License][license-img]][license]
+[![Go version][shield-go-version]][go-version]
+![Downloads][download]
 
 ### About Brainsae
 [<img src="./logo/brainsae-logo.png" width="300" height="85" class=".img-rounded" aligh="center">](https://github.com/brainsae/brainsae)
 
 ### Quick Start
 [<img src="./logo/brainsae.png" width="100">](https://github.com/brainsae/brainsae)
+
+[release-img]: https://img.shields.io/github/release/brainsae/brainsae.svg
+[release]: https://github.com/brainsae/brainsae/releases
+
+[license-img]: https://img.shields.io/github/license/brainsae/brainsae.svg
+[license]: https://github.com/brainsae/brainsae/blob/master/LICENSE
+
+[shield-go-version]: https://img.shields.io/github/go-mod/go-version/brainsae/brainsae
+[go-version]: https://github.com/brainsae/brainsae/blob/main/go.mod
+
+[download]: https://img.shields.io/github/downloads/braineae/brainsae/total?logo=github
