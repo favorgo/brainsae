@@ -7,7 +7,6 @@
 
 ## Overview
 
----
 Brainsae is a command line tool that implement kubelet's API.
 Part of kubelet's API is documented but most of it is not.
 This tool covers all the documented and undocumented APIs.
@@ -16,11 +15,7 @@ A related blog post:
 
 ## What can it do?
 
----
-
 ## Usage
-
----
 
 [release-img]: https://img.shields.io/github/release/brainsae/brainsae.svg
 [release]: https://github.com/brainsae/brainsae/releases
